@@ -6,6 +6,6 @@ This project demonstrates real-time face recognition capabilities using the powe
 * **Facial Landmarks:** Detects 68 facial landmarks for precise face localization and recognition.
 * **Face Encodings:** Generates 128-dimensional face embeddings for face comparison and identification.
 ### Installation
-Before running the code file "face_recognition_ver2", you need to prepare your own database with faces you need to recognize and download model from the drive below
+Before running the code file **`face_recognition_ver2`**, you need to prepare your own database with faces you need to recognize and download model from the drive below
 [Model](https://drive.google.com/drive/folders/1aiOB5DeZkC27gGi1zWd2wgq5rmxNy2WL?usp=sharing)
 
